@@ -2,7 +2,7 @@
 # 🚀 Sobre mim
 ## Felipe Albino Rafaldini
 
-Estudante do quarto semestre do curso de Engenharia da Computação na [Universidade de Sorocaba](https://uniso.br/home)
+Estudante do quarto semestre do curso de Engenharia da Computação na [Universidade de Sorocaba (UNISO)](https://uniso.br/home)
 
 
 ## 🔗 Links
