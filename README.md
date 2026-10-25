@@ -1,26 +1,27 @@
+# Felipe Albino Rafaldini
 
-# 🚀 Sobre mim
-## Felipe Albino Rafaldini
+Estudante de Engenharia da Computação na [UNISO](https://uniso.br/home) (7º semestre).
+Construo ferramentas pequenas que resolvem problema real — de backup de banco a geração de sprites.
 
-Estudante do quarto semestre do curso de Engenharia da Computação na [Universidade de Sorocaba (UNISO)](https://uniso.br/home)
+## Projetos
 
+| Projeto | O que é | Stack |
+|---|---|---|
+| [erp_veterinario](https://github.com/feliperafaldini/erp_veterinario) | ERP veterinário SaaS multi-tenant, com testes de integração | TypeScript, NestJS, Prisma, PostgreSQL |
+| [linkedu](https://github.com/feliperafaldini/linkedu) | App de busca de estágios para alunos da UNISO | Flutter, Dart |
+| [compiladores-4-semestre](https://github.com/feliperafaldini/compiladores-4-semestre) | Lexer e parser de linguagem fictícia | Python, PLY |
+| [carteira-digital-pet](https://github.com/feliperafaldini/carteira-digital-pet) | Carteira digital de vacinação pet | HTML, CSS, JavaScript |
+| [grafos-4-semestre](https://github.com/feliperafaldini/grafos-4-semestre) | Implementações de algoritmos de grafos | Python |
 
-## 🔗 Links
-[![Perfil DIO](https://img.shields.io/badge/DIO.ME-ffffff?style=for-the-badge&logoColor=000000)](https://www.dio.me/users/feliperafaldini) 
-[![Gmail](https://img.shields.io/badge/Gmail-ffffff?style=for-the-badge&logo=gmail&logoColor=000000)](mailto:feliperafaldini@gmail.com)
+## Com o que trabalho
 
+- **Python** — automação, processamento de dados, pipelines com PIL e PyTorch
+- **PHP / WordPress** — desenvolvimento de plugin, hooks, SQL, empacotamento
+- **TypeScript** — NestJS, Prisma, React
+- **Lua** — scripting de automação
+- **Linux** — uso diário, diagnóstico e administração
 
-## 🛠 Habilidades
-![Python](https://img.shields.io/badge/python-ffffff?style=for-the-badge&logo=python&logoColor=000000)
-![Lua](https://img.shields.io/badge/Lua-ffffff?style=for-the-badge&logo=lua&logoColor=000000)
-![Dart](https://img.shields.io/badge/Dart-ffffff?style=for-the-badge&logo=dart&logoColor=000000)
-![Flutter](https://img.shields.io/badge/Flutter-ffffff?style=for-the-badge&logo=flutter&logoColor=000000)
-![Firebase](https://img.shields.io/badge/firebase-ffffff?style=for-the-badge&logo=firebase&logoColor=000000)
+## Contato
 
-
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=feliperafaldini&theme=transparent&bg_color=fff&border_color=30A3DC&show_icons=false&title_color=E94D5F&text_color=000000&hide=stars)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=feliperafaldini&layout=compact&bg_color=ffffff&border_color=30A3DC&title_color=E94D5F&text_color=000000)
-
+- E-mail: [feliperafaldini@gmail.com](mailto:feliperafaldini@gmail.com)
+- DIO: [dio.me/users/feliperafaldini](https://www.dio.me/users/feliperafaldini)
