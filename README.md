@@ -1,7 +1,6 @@
 # Felipe Albino Rafaldini
 
 Estudante de Engenharia da Computação na [UNISO](https://uniso.br/home) (7º semestre).
-Construo ferramentas pequenas que resolvem problema real — de backup de banco a geração de sprites.
 
 ## Projetos
 
